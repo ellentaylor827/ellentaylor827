@@ -1,5 +1,23 @@
-### Hi there 👋
+## Hi there 👋
+### 💬 About me
+I'm Ellen, currently a third year computer science student at the University Of Lincoln.      
+Pronouns: they/she
+### My Goals:
+- 🌐 Create things to make a positive impact
+- 🖥️ Take on challenging, long-term projects
+- 📈 Continuously improve my skills
+  
+### What I'm up to
+- 📚 Carrying out personal projects
+- 🙏 Working on long-term collaborative projects
+- ✍🏻 Applying my academic learning to real-life applications
+- 🤝 Looking to collarborate on new projects
 
+### Languages
+- Python (~7 years on and off)
+- C# (~2 years)
+- C++ (~4 months)
+- React (~2 months)
 <!--
 **ellentaylor827/ellentaylor827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
