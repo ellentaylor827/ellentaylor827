@@ -18,6 +18,10 @@ Pronouns: they/she
 - C# (~2 years)
 - C++ (~4 months)
 - React (~2 months)
+
+<a href="https://www.linkedin.com/in/ellen-taylor-7640a9193/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?logoColor=white&logo=linkedin&style=for-the-badge" alt="LinkedIn">
+</a>
 <!--
 **ellentaylor827/ellentaylor827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
